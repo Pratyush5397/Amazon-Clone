@@ -1,0 +1,1 @@
+This repository contains a full-stack Amazon clone application designed to replicate the core functionalities of an e-commerce platform. The project demonstrates my skills in web development and provides a hands-on understanding of the e-commerce workflow.
